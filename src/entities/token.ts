@@ -73,7 +73,7 @@ export const WETH = {
   ),
   [ChainId.RINKEBY]: new Token(
     ChainId.RINKEBY,
-    '0xc778417E063141139Fce010982780140Aa0cD5Ab',
+    '0x2d51fd37f175984603A7d6C4758b27D09A1B2227',
     18,
     'WETH',
     'Wrapped Ether'
